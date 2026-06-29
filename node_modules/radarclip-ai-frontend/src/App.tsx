@@ -1,3 +1,8 @@
 export function App() {
-  return <h1>RadarClip AI</h1>;
+  return (
+    <main>
+      <h1>RadarClip AI</h1>
+      <p>Dashboard do MVP</p>
+    </main>
+  );
 }
