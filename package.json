@@ -1,0 +1,12 @@
+{
+  "name": "radarclip-ai",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "scripts": {
+    "backend:test": "cd backend && pytest -q",
+    "frontend:install": "cd frontend && npm install",
+    "frontend:build": "cd frontend && npm run build"
+  }
+}
