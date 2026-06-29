@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd \"c:/Users/israe/Desktop/LEAZIMARA/AL3 GROUP/RadarClip AI/backend\"; & 'C:\\\\Users\\\\israe\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python\\.exe' -m pytest -q$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
